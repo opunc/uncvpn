@@ -1,5 +1,5 @@
 {
-  "Boolean": false,
+  "Boolean": true,
   "GooglePlay": "ลิ้งแอพ",
   "Message": "โปรดอ่านรายละเอียด
 แอปพลิเคชั่นยุติให้การบริการ 

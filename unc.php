@@ -13,5 +13,5 @@ Config Version 2.4
 🇦🇺AUS 1 server
 🇸🇬SG 2 server
 🇹🇭SUPER_VIP สำหรับเช่าส่วนตัว
-👤ติดต่อ @Line: ioffop
+👤ลิ้งแชทเฟส https://m.me/aofaofaofthai
 🕒 เซิร์ฟเวอร์ รีบูตเวลา 03:30 ทุกวัน

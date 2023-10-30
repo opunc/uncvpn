@@ -20,6 +20,7 @@ Config Version 2.5
 🇹🇭CAT_บางรัก 1 server
 🇹🇭TH-AIS 1 sever
 🇹🇭TH-METRA 1 server
+🇹🇭TH-GAMING 5 server
 🇹🇭TH-CSL 1 server
 🇹🇭TH-READY 1 server
 🇪🇪EE 5 server
